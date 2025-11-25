@@ -3,12 +3,13 @@ Nation files from around the world. For and endless career!
 
 # Created so far
 
- - Cyprus
- - Saudi Arabia
+ - Cyprus (Third Division)
+ - Saudi Arabia (Third Division)
+ - Paraguay (Primera C) (Women's Football Championship)
 
 # In progress
 
- - Paraguay
+ - Ecuador
 
 # Overall Status
 
@@ -168,8 +169,8 @@ Nation files from around the world. For and endless career!
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇧🇷 Brazil
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇨🇱 Chile
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇨🇴 Colombia
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇪🇨 Ecuador
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇵🇾 Paraguay
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇪🇨 Ecuador
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇵🇾 Paraguay
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇵🇪 Peru
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇺🇾 Uruguay
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇻🇪 Venezuela
