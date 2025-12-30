@@ -7,10 +7,11 @@ Nation files from around the world. For and endless career!
  - Saudi Arabia (Third Division)
  - Paraguay (Primera C) (Women's Football Championship)
  - Ecuador (Ecuadorian Ascenso Nacional) (Ecuadorian Women's First Division)
+ - Azerbaijan (Azeri Regional League)
 
 # In progress
 
- - Azerbaijan
+ - Moldova
 
 # Overall Status
 
@@ -196,7 +197,7 @@ Nation files from around the world. For and endless career!
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇦🇩 Andorra
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇦🇲 Armenia
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇦🇹 Austria
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇦🇿 Azerbaijan
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇦🇿 Azerbaijan
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇧🇾 Belarus
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇧🇪 Belgium
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇧🇦 Bosnia and Herzegovina
@@ -225,7 +226,7 @@ Nation files from around the world. For and endless career!
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇱🇹 Lithuania
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇱🇺 Luxembourg
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇲🇹 Malta
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇲🇩 Moldova
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇲🇩 Moldova
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇲🇪 Montenegro
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇳🇱 Netherlands
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇲🇰 North Macedonia
