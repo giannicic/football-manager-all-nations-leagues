@@ -1,5 +1,6 @@
 # Football Manager 2026: World Leagues
 Nation files from around the world. For and endless career!
+Any feedback is greatly appreciated.
 
 # Created so far
 
@@ -8,10 +9,11 @@ Nation files from around the world. For and endless career!
  - Paraguay (Primera C) (Women's Football Championship)
  - Ecuador (Ecuadorian Ascenso Nacional) (Ecuadorian Women's First Division)
  - Azerbaijan (Azeri Regional League)
+ - Moldova (Moldovan Liga 2) (Moldova Women's League)
 
 # In progress
 
- - Moldova
+ - Morocco
 
 # Overall Status
 
@@ -68,7 +70,7 @@ Nation files from around the world. For and endless career!
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇩🇿 Algeria
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇪🇬 Egypt
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇱🇾 Libya
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇲🇦 Morocco
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇲🇦 Morocco
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇹🇳 Tunisia
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇧🇯 Benin
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇧🇫 Burkina Faso
@@ -226,7 +228,7 @@ Nation files from around the world. For and endless career!
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇱🇹 Lithuania
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇱🇺 Luxembourg
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇲🇹 Malta
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇲🇩 Moldova
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇩 Moldova
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇲🇪 Montenegro
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇳🇱 Netherlands
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇲🇰 North Macedonia
