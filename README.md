@@ -10,10 +10,11 @@ Any feedback is greatly appreciated.
  - Ecuador (Ecuadorian Ascenso Nacional) (Ecuadorian Women's First Division)
  - Azerbaijan (Azeri Regional League)
  - Moldova (Moldovan Liga 2) (Moldova Women's League)
+ - Morocco (Ligue National de Football Amateur 1) (Moroccan Second Division)
 
 # In progress
 
- - Morocco
+ - Iran, Bosnia and Herzegovina, Qatar
 
 # Overall Status
 
@@ -31,7 +32,7 @@ Any feedback is greatly appreciated.
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇹🇭 Thailand
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇻🇳 Vietnam
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇦🇫 Afghanistan
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇮🇷 Iran
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇮🇷 Iran
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇰🇬 Kyrgyzstan
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇹🇯 Tajikistan
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇹🇲 Turkmenistan
@@ -60,7 +61,7 @@ Any feedback is greatly appreciated.
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇱🇧 Lebanon
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇴🇲 Oman
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇵🇸 Palestine
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇶🇦 Qatar
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇶🇦 Qatar
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇸🇦 Saudi Arabia
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇸🇾 Syria
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇦🇪 United Arab Emirates
@@ -70,7 +71,7 @@ Any feedback is greatly appreciated.
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇩🇿 Algeria
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇪🇬 Egypt
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇱🇾 Libya
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇲🇦 Morocco
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇦 Morocco
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇹🇳 Tunisia
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇧🇯 Benin
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇧🇫 Burkina Faso
@@ -202,7 +203,7 @@ Any feedback is greatly appreciated.
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇦🇿 Azerbaijan
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇧🇾 Belarus
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇧🇪 Belgium
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇧🇦 Bosnia and Herzegovina
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇧🇦 Bosnia and Herzegovina
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇧🇬 Bulgaria
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇭🇷 Croatia
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇨🇾 Cyprus
