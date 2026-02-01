@@ -14,10 +14,12 @@ Any feedback is greatly appreciated.
  - Iran (Iranian Second Division) (Kowsar Women's League)
  - Bosnia and Herzegovina (Bosnian Second League) (Bosnian Premier League)
  - Qatar (Qatari Second Division) 
+ - Algeria (Algerian Ligue 2) (Algeria First Division)
+ - Costa Rica (Costa Rican Lower Division) (Costa Rican Women's Premier Division)
 
 # In progress
 
- - Algeria, Costa Rica
+ - Armenia
 
 # Overall Status
 
@@ -71,7 +73,7 @@ Any feedback is greatly appreciated.
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇾🇪 Yemen
 
 ## CAF
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇩🇿 Algeria
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇩🇿 Algeria
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇪🇬 Egypt
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇱🇾 Libya
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇦 Morocco
@@ -133,7 +135,7 @@ Any feedback is greatly appreciated.
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇲🇽 Mexico
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇺🇸 United States
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇧🇿 Belize
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇨🇷 Costa Rica
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇨🇷 Costa Rica
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇸🇻 El Salvador
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇬🇹 Guatemala
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇭🇳 Honduras
@@ -201,7 +203,7 @@ Any feedback is greatly appreciated.
 ## UEFA
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇦🇱 Albania
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇦🇩 Andorra
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇦🇲 Armenia
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇦🇲 Armenia
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇦🇹 Austria
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇦🇿 Azerbaijan
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇧🇾 Belarus
