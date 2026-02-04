@@ -16,10 +16,11 @@ Any feedback is greatly appreciated.
  - Qatar (Qatari Second Division) 
  - Algeria (Algerian Ligue 2) (Algeria First Division)
  - Costa Rica (Costa Rican Lower Division) (Costa Rican Women's Premier Division)
+ - Armenia (Armenian Amateur League B) (Armenia Women's First League)
 
 # In progress
 
- - Armenia
+ - Kazakhstan
 
 # Overall Status
 
@@ -203,7 +204,7 @@ Any feedback is greatly appreciated.
 ## UEFA
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇦🇱 Albania
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇦🇩 Andorra
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇦🇲 Armenia
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇦🇲 Armenia
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇦🇹 Austria
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇦🇿 Azerbaijan
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇧🇾 Belarus
@@ -227,7 +228,7 @@ Any feedback is greatly appreciated.
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇮🇸 Iceland
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇮🇱 Israel
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇮🇹 Italy
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇰🇿 Kazakhstan
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇰🇿 Kazakhstan
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇽🇰 Kosovo
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇱🇻 Latvia
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇱🇮 Liechtenstein
