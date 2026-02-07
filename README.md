@@ -17,10 +17,11 @@ Any feedback is greatly appreciated.
  - Algeria (Algerian Ligue 2) (Algeria First Division)
  - Costa Rica (Costa Rican Lower Division) (Costa Rican Women's Premier Division)
  - Armenia (Armenian Amateur League B) (Armenia Women's First League)
+ - Kazakhstan (Kazakhstan Premier League) (Kazakhstani Women's Football Championship)
 
 # In progress
 
- - Kazakhstan
+ - Uzbekistan, Bolivia
 
 # Overall Status
 
@@ -42,7 +43,7 @@ Any feedback is greatly appreciated.
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇰🇬 Kyrgyzstan
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇹🇯 Tajikistan
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇹🇲 Turkmenistan
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇺🇿 Uzbekistan
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇺🇿 Uzbekistan
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇨🇳 China
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇹🇼 Chinese Taipei
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇰🇵 North Korea
@@ -176,7 +177,7 @@ Any feedback is greatly appreciated.
 
 ## CONMEBOL
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇦🇷 Argentina
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇧🇴 Bolivia
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇧🇴 Bolivia
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇧🇷 Brazil
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇨🇱 Chile
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇨🇴 Colombia
@@ -228,7 +229,7 @@ Any feedback is greatly appreciated.
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇮🇸 Iceland
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇮🇱 Israel
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇮🇹 Italy
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇰🇿 Kazakhstan
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇰🇿 Kazakhstan
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇽🇰 Kosovo
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇱🇻 Latvia
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇱🇮 Liechtenstein
