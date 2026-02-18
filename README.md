@@ -18,10 +18,12 @@ Any feedback is greatly appreciated.
  - Costa Rica (Costa Rican Lower Division) (Costa Rican Women's Premier Division)
  - Armenia (Armenian Amateur League B) (Armenia Women's First League)
  - Kazakhstan (Kazakhstan Premier League) (Kazakhstani Women's Football Championship)
+ - Uzbekistan (Uzbek Birinchi Liga) (Uzbekistan First League)
+ - Bolivia (Bolivian Premier Division) (Bolivian Women's Championship)
 
 # In progress
 
- - Uzbekistan, Bolivia
+ - Nigeria, Thailand
 
 # Overall Status
 
@@ -36,14 +38,14 @@ Any feedback is greatly appreciated.
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇲🇲 Myanmar
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇵🇭 Philippines
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇸🇬 Singapore
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇹🇭 Thailand
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇹🇭 Thailand
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇻🇳 Vietnam
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇦🇫 Afghanistan
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇮🇷 Iran
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇰🇬 Kyrgyzstan
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇹🇯 Tajikistan
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇹🇲 Turkmenistan
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇺🇿 Uzbekistan
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇺🇿 Uzbekistan
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇨🇳 China
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇹🇼 Chinese Taipei
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇰🇵 North Korea
@@ -92,7 +94,7 @@ Any feedback is greatly appreciated.
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇲🇱 Mali
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇲🇷 Mauritania
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇳🇪 Niger
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇳🇬 Nigeria
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇳🇬 Nigeria
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇸🇳 Senegal
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇸🇱 Sierra Leone
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇹🇬 Togo
@@ -177,7 +179,7 @@ Any feedback is greatly appreciated.
 
 ## CONMEBOL
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇦🇷 Argentina
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇧🇴 Bolivia
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇴 Bolivia
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇧🇷 Brazil
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇨🇱 Chile
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇨🇴 Colombia
