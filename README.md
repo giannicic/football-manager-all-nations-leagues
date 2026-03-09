@@ -20,10 +20,12 @@ Any feedback is greatly appreciated.
  - Kazakhstan (Kazakhstan Premier League) (Kazakhstani Women's Football Championship)
  - Uzbekistan (Uzbek Birinchi Liga) (Uzbekistan First League)
  - Bolivia (Bolivian Premier Division) (Bolivian Women's Championship)
+ - Nigeria (Nigerian Second Division) (Nigeria First Division)
+ - Thailand (Thailand Semi-Pro League National Championship) (Thai Women's League 2)
 
 # In progress
 
- - Nigeria, Thailand
+ - Venezuela, Tunisia, Vietnam
 
 # Overall Status
 
@@ -38,8 +40,8 @@ Any feedback is greatly appreciated.
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇲🇲 Myanmar
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇵🇭 Philippines
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇸🇬 Singapore
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇹🇭 Thailand
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇻🇳 Vietnam
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇹🇭 Thailand
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇻🇳 Vietnam
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇦🇫 Afghanistan
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇮🇷 Iran
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇰🇬 Kyrgyzstan
@@ -81,7 +83,7 @@ Any feedback is greatly appreciated.
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇪🇬 Egypt
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇱🇾 Libya
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇦 Morocco
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇹🇳 Tunisia
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇹🇳 Tunisia
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇧🇯 Benin
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇧🇫 Burkina Faso
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇨🇻 Cape Verde
@@ -94,7 +96,7 @@ Any feedback is greatly appreciated.
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇲🇱 Mali
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇲🇷 Mauritania
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇳🇪 Niger
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇳🇬 Nigeria
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇳🇬 Nigeria
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇸🇳 Senegal
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇸🇱 Sierra Leone
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇹🇬 Togo
@@ -187,7 +189,7 @@ Any feedback is greatly appreciated.
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇵🇾 Paraguay
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇵🇪 Peru
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇺🇾 Uruguay
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇻🇪 Venezuela
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇻🇪 Venezuela
 
 ## OFC
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇦🇸 American Samoa
