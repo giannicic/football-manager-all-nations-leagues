@@ -22,12 +22,17 @@ Any feedback is greatly appreciated.
  - Bolivia (Bolivian Premier Division) (Bolivian Women's Championship)
  - Nigeria (Nigerian Second Division) (Nigeria First Division)
  - Thailand (Thailand Semi-Pro League National Championship) (Thai Women's League 2)
+ - Venezuela (Venezuelan Second Division) (Venezuelan Women's Super League)
+ - Tunisia (Tunisian Amateur League 1)
+ - Vietnam (Vietnamese Second Division) (Vietnamese Women's National League)
 
 # In progress
 
- - Venezuela, Tunisia, Vietnam
+ - Honduras
 
 # Overall Status
+
+🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 14% (21/143)
 
 ## AFC
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇦🇺 Australia
@@ -41,7 +46,7 @@ Any feedback is greatly appreciated.
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇵🇭 Philippines
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇸🇬 Singapore
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇹🇭 Thailand
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇻🇳 Vietnam
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇻🇳 Vietnam
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇦🇫 Afghanistan
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇮🇷 Iran
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇰🇬 Kyrgyzstan
@@ -83,7 +88,7 @@ Any feedback is greatly appreciated.
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇪🇬 Egypt
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇱🇾 Libya
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇦 Morocco
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇹🇳 Tunisia
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇹🇳 Tunisia
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇧🇯 Benin
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇧🇫 Burkina Faso
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇨🇻 Cape Verde
@@ -144,7 +149,7 @@ Any feedback is greatly appreciated.
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇨🇷 Costa Rica
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇸🇻 El Salvador
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇬🇹 Guatemala
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇭🇳 Honduras
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇭🇳 Honduras
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇳🇮 Nicaragua
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇵🇦 Panama
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇦🇮 Anguilla
@@ -189,7 +194,7 @@ Any feedback is greatly appreciated.
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇵🇾 Paraguay
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇵🇪 Peru
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇺🇾 Uruguay
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇻🇪 Venezuela
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇻🇪 Venezuela
 
 ## OFC
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇦🇸 American Samoa
