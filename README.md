@@ -25,10 +25,11 @@ Any feedback is greatly appreciated.
  - Venezuela (Venezuelan Second Division) (Venezuelan Women's Super League)
  - Tunisia (Tunisian Amateur League 1)
  - Vietnam (Vietnamese Second Division) (Vietnamese Women's National League)
+ - Honduras (Liga de Ascenso de Honduras)
 
 # In progress
 
- - Honduras
+ - Jordan, Albania
 
 # Overall Status
 
@@ -72,7 +73,7 @@ Any feedback is greatly appreciated.
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇱🇰 Sri Lanka
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇧🇭 Bahrain
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇮🇶 Iraq
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇯🇴 Jordan
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇯🇴 Jordan
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇰🇼 Kuwait
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇱🇧 Lebanon
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇴🇲 Oman
@@ -149,7 +150,7 @@ Any feedback is greatly appreciated.
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇨🇷 Costa Rica
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇸🇻 El Salvador
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇬🇹 Guatemala
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇭🇳 Honduras
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇭🇳 Honduras
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇳🇮 Nicaragua
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇵🇦 Panama
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇦🇮 Anguilla
@@ -212,7 +213,7 @@ Any feedback is greatly appreciated.
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇻🇺 Vanuatu
 
 ## UEFA
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇦🇱 Albania
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇦🇱 Albania
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇦🇩 Andorra
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇦🇲 Armenia
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇦🇹 Austria
