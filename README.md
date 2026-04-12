@@ -26,14 +26,16 @@ Any feedback is greatly appreciated.
  - Tunisia (Tunisian Amateur League 1)
  - Vietnam (Vietnamese Second Division) (Vietnamese Women's National League)
  - Honduras (Liga de Ascenso de Honduras)
+ - Jordan (Jordanian Second Division League) (Jordan Women's Pro League)
+ - Albania (Albanian Third Category) (Albanian Women's National Championship)
 
 # In progress
 
- - Jordan, Albania
+ - Iraq
 
 # Overall Status
 
-🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 14% (21/143)
+🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 16% (24/143)
 
 ## AFC
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇦🇺 Australia
@@ -72,8 +74,8 @@ Any feedback is greatly appreciated.
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇵🇰 Pakistan
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇱🇰 Sri Lanka
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇧🇭 Bahrain
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇮🇶 Iraq
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇯🇴 Jordan
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇮🇶 Iraq
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇯🇴 Jordan
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇰🇼 Kuwait
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇱🇧 Lebanon
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇴🇲 Oman
@@ -213,7 +215,7 @@ Any feedback is greatly appreciated.
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇻🇺 Vanuatu
 
 ## UEFA
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇦🇱 Albania
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇦🇱 Albania
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇦🇩 Andorra
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇦🇲 Armenia
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇦🇹 Austria
