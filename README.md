@@ -29,14 +29,15 @@ Any feedback is greatly appreciated.
  - Jordan (Jordanian Second Division League) (Jordan Women's Pro League)
  - Albania (Albanian Third Category) (Albanian Women's National Championship)
  - Iraq (Iraqi Second Division League) (Iraqi Women's Football League)
+ - Montenegro (Montenegrin Second League) (Montenegrin Women's League)
 
 # In progress
 
- - Montenegro
+ - North Macedonia
 
 # Overall Status
 
-🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 17% (25/143)
+🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 18% (26/143)
 
 ## AFC
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇦🇺 Australia
@@ -250,9 +251,9 @@ Any feedback is greatly appreciated.
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇱🇺 Luxembourg
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇲🇹 Malta
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇩 Moldova
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇲🇪 Montenegro
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇪 Montenegro
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇳🇱 Netherlands
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇲🇰 North Macedonia
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇲🇰 North Macedonia
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🏴󠁧󠁢󠁮󠁩󠁲󠁿 Northern Ireland
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇳🇴 Norway
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇵🇱 Poland
