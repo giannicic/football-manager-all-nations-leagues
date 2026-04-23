@@ -30,14 +30,15 @@ Any feedback is greatly appreciated.
  - Albania (Albanian Third Category) (Albanian Women's National Championship)
  - Iraq (Iraqi Second Division League) (Iraqi Women's Football League)
  - Montenegro (Montenegrin Second League) (Montenegrin Women's League)
+ - North Macedonia (North Macedonian Third League) (North Macedonia Women's Second League)
 
 # In progress
 
- - North Macedonia
+ - Bahrain, Oman
 
 # Overall Status
 
-🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 18% (26/143)
+🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 18% (27/143)
 
 ## AFC
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇦🇺 Australia
@@ -75,12 +76,12 @@ Any feedback is greatly appreciated.
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇳🇵   Nepal
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇵🇰 Pakistan
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇱🇰 Sri Lanka
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇧🇭 Bahrain
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇧🇭 Bahrain
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇮🇶 Iraq
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇯🇴 Jordan
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇰🇼 Kuwait
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇱🇧 Lebanon
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇴🇲 Oman
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇴🇲 Oman
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇵🇸 Palestine
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇶🇦 Qatar
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇸🇦 Saudi Arabia
@@ -253,7 +254,7 @@ Any feedback is greatly appreciated.
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇩 Moldova
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇪 Montenegro
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇳🇱 Netherlands
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇲🇰 North Macedonia
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇰 North Macedonia
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🏴󠁧󠁢󠁮󠁩󠁲󠁿 Northern Ireland
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇳🇴 Norway
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇵🇱 Poland
