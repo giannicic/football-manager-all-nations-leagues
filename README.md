@@ -31,14 +31,16 @@ Any feedback is greatly appreciated.
  - Iraq (Iraqi Second Division League) (Iraqi Women's Football League)
  - Montenegro (Montenegrin Second League) (Montenegrin Women's League)
  - North Macedonia (North Macedonian Third League) (North Macedonia Women's Second League)
+ - Bahrain (Bahrain First Division)
+ - Oman (Omani First Division)
 
 # In progress
 
- - Bahrain, Oman
+ - Lebanon
 
 # Overall Status
 
-🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 18% (27/143)
+🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 20% (29/143)
 
 ## AFC
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇦🇺 Australia
@@ -76,12 +78,12 @@ Any feedback is greatly appreciated.
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇳🇵   Nepal
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇵🇰 Pakistan
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇱🇰 Sri Lanka
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇧🇭 Bahrain
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇭 Bahrain
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇮🇶 Iraq
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇯🇴 Jordan
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇰🇼 Kuwait
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇱🇧 Lebanon
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇴🇲 Oman
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇱🇧 Lebanon
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇴🇲 Oman
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇵🇸 Palestine
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇶🇦 Qatar
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇸🇦 Saudi Arabia
