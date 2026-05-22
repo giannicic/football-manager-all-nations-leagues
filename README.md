@@ -45,14 +45,16 @@ Any feedback is greatly appreciated.
  - Jamaica (Jamaican Football Federation Championship) (Jamaican Women's Premier League)
  - Faroe Islands (Faroese Third Division) (Faroese Women's Premier League)
  - Lebanon (Lebanese Second Division) (Lebanese Women's Football League)
+ - Nicaragua (Segunda división de Nicaragua) (Women's First Division)
+ - Tajikistan (Tajikistani First Division)
 
 # In progress
 
- - Nicaragua, Tajikistan
+ - Trinidad and Tobago, New Zealand
 
 # Overall Status
 
-🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 28% (41/143)
+🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 30% (43/143)
 
 ## AFC
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇦🇺 Australia
@@ -70,7 +72,7 @@ Any feedback is greatly appreciated.
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇦🇫 Afghanistan
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇮🇷 Iran
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇰🇬 Kyrgyzstan
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇹🇯 Tajikistan
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇹🇯 Tajikistan
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇹🇲 Turkmenistan
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇺🇿 Uzbekistan
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇨🇳 China
@@ -170,7 +172,7 @@ Any feedback is greatly appreciated.
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇸🇻 El Salvador
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇬🇹 Guatemala
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇭🇳 Honduras
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇳🇮 Nicaragua
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇳🇮 Nicaragua
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇵🇦 Panama
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇦🇮 Anguilla
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇦🇬 Antigua and Barbuda
@@ -200,7 +202,7 @@ Any feedback is greatly appreciated.
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇻🇨 Saint Vincent and the Grenadines
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇸🇽 Sint Maarten
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇸🇷 Suriname
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇹🇹 Trinidad and Tobago
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇹🇹 Trinidad and Tobago
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇹🇨 Turks and Caicos Islands
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇻🇮 U.S. Virgin Islands
 
@@ -222,7 +224,7 @@ Any feedback is greatly appreciated.
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇫🇯 Fiji
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇰🇮 Kiribati
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇳🇨 New Caledonia
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇳🇿 New Zealand
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇳🇿 New Zealand
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇵🇬 Papua New Guinea
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇼🇸 Samoa
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇸🇧 Solomon Islands
