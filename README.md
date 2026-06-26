@@ -60,14 +60,15 @@ Any feedback is greatly appreciated.
  - Cameroon (Cameroonian Elite Two) (Cameroon First Division)
  - Haiti (Haitian Championnat National D1)
  - Ghana (Ghana Division One League) (Ghana First Division)
+ - Estonia (Estonian Premier League) (Estonian Women's First League)
 
 # In progress
 
- - Estonia
+ - North Korea
 
 # Overall Status
 
-🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 39% (56/143)
+🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 39% (57/143)
 
 ## AFC
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇦🇺 Australia
@@ -90,7 +91,7 @@ Any feedback is greatly appreciated.
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇺🇿 Uzbekistan
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇨🇳 China
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇹🇼 Chinese Taipei
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇰🇵 North Korea
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇰🇵 North Korea
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇬🇺 Guam
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇭🇰 Hong Kong, China
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇯🇵 Japan
@@ -261,7 +262,7 @@ Any feedback is greatly appreciated.
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇨🇿 Czech Republic
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇩🇰 Denmark
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇪🇪 Estonia
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇪🇪 Estonia
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇫🇴 Faroe Islands
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇫🇮 Finland
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇫🇷 France
