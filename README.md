@@ -61,14 +61,15 @@ Any feedback is greatly appreciated.
  - Haiti (Haitian Championnat National D1)
  - Ghana (Ghana Division One League) (Ghana First Division)
  - Estonia (Estonian Premier League) (Estonian Women's First League)
+ - North Korea (DPR Premier Football League) (North Korea First Division)
 
 # In progress
 
- - North Korea
+ - Suriname
 
 # Overall Status
 
-🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 39% (57/143)
+🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 40% (58/143)
 
 ## AFC
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇦🇺 Australia
@@ -91,7 +92,7 @@ Any feedback is greatly appreciated.
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇺🇿 Uzbekistan
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇨🇳 China
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇹🇼 Chinese Taipei
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇰🇵 North Korea
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇰🇵 North Korea
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇬🇺 Guam
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇭🇰 Hong Kong, China
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇯🇵 Japan
@@ -215,7 +216,7 @@ Any feedback is greatly appreciated.
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇲🇫 Saint Martin
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇻🇨 Saint Vincent and the Grenadines
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇸🇽 Sint Maarten
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇸🇷 Suriname
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇸🇷 Suriname
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇹🇹 Trinidad and Tobago
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇹🇨 Turks and Caicos Islands
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇻🇮 U.S. Virgin Islands
