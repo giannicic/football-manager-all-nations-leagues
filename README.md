@@ -64,14 +64,15 @@ Any feedback is greatly appreciated.
  - North Korea (DPR Premier Football League) (North Korea First Division)
  - Suriname (Suriname Major League)
  - Georgia (Georgian Regional League) (Georgia Women's Second League)
+ - Luxembourg (Luxembourg First Division) (Luxembourg Women's League)
 
 # In progress
 
- - Luxembourg
+ - Guinea
 
 # Overall Status
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 41% (60/143)
+🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 42% (61/143)
 
 ## AFC
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇦🇺 Australia
@@ -133,7 +134,7 @@ Any feedback is greatly appreciated.
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇨🇻 Cape Verde
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇬🇲 Gambia
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇬🇭 Ghana
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇬🇳 Guinea
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇬🇳 Guinea
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇬🇼 Guinea-Bissau
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇨🇮 Ivory Coast
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇱🇷 Liberia
@@ -282,7 +283,7 @@ Any feedback is greatly appreciated.
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇱🇻 Latvia
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇱🇮 Liechtenstein
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇱🇹 Lithuania
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇱🇺 Luxembourg
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇱🇺 Luxembourg
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇹 Malta
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇩 Moldova
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇪 Montenegro
