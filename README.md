@@ -65,14 +65,15 @@ Any feedback is greatly appreciated.
  - Suriname (Suriname Major League)
  - Georgia (Georgian Regional League) (Georgia Women's Second League)
  - Luxembourg (Luxembourg First Division) (Luxembourg Women's League)
+ - Guinea (Guinean Ligue 1) (Guinea Women's Championship)
 
 # In progress
 
- - Guinea
+ - Puerto Rico, Martinique, Antigua and Barbuda
 
 # Overall Status
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 42% (61/143)
+🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 43% (62/143)
 
 ## AFC
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇦🇺 Australia
@@ -134,7 +135,7 @@ Any feedback is greatly appreciated.
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇨🇻 Cape Verde
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇬🇲 Gambia
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇬🇭 Ghana
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇬🇳 Guinea
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇬🇳 Guinea
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇬🇼 Guinea-Bissau
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇨🇮 Ivory Coast
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇱🇷 Liberia
@@ -193,7 +194,7 @@ Any feedback is greatly appreciated.
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇳🇮 Nicaragua
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇵🇦 Panama
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇦🇮 Anguilla
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇦🇬 Antigua and Barbuda
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇦🇬 Antigua and Barbuda
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇦🇼 Aruba
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇧🇸 Bahamas
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇧🇧 Barbados
@@ -211,9 +212,9 @@ Any feedback is greatly appreciated.
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇬🇾 Guyana
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇭🇹 Haiti
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇯🇲 Jamaica
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇲🇶 Martinique
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇲🇶 Martinique
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇲🇸 Montserrat
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇵🇷 Puerto Rico
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇵🇷 Puerto Rico
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇰🇳 Saint Kitts and Nevis
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇱🇨 Saint Lucia
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇲🇫 Saint Martin
