@@ -66,14 +66,17 @@ Any feedback is greatly appreciated.
  - Georgia (Georgian Regional League) (Georgia Women's Second League)
  - Luxembourg (Luxembourg First Division) (Luxembourg Women's League)
  - Guinea (Guinean Ligue 1) (Guinea Women's Championship)
+ - Puerto Rico (Liga Puerto Rico) (Liga Puerto Rico Femenina)
+ - Martinique (Martinican Trophee de Charles-Alfred R2) (Martinique WFL)
+ - Antigua and Barbuda (Antigua and Barbuda Second Division)
 
 # In progress
 
- - Puerto Rico, Martinique, Antigua and Barbuda
+ - Chinese Taipei, Myanmar
 
 # Overall Status
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 43% (62/143)
+🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 45% (65/143)
 
 ## AFC
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇦🇺 Australia
@@ -83,7 +86,7 @@ Any feedback is greatly appreciated.
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇮🇩 Indonesia
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇱🇦 Laos
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇲🇾 Malaysia
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇲🇲 Myanmar
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇲🇲 Myanmar
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇵🇭 Philippines
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇸🇬 Singapore
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇹🇭 Thailand
@@ -95,7 +98,7 @@ Any feedback is greatly appreciated.
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇹🇲 Turkmenistan
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇺🇿 Uzbekistan
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇨🇳 China
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇹🇼 Chinese Taipei
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇹🇼 Chinese Taipei
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇰🇵 North Korea
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇬🇺 Guam
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇭🇰 Hong Kong, China
@@ -194,7 +197,7 @@ Any feedback is greatly appreciated.
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇳🇮 Nicaragua
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇵🇦 Panama
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇦🇮 Anguilla
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇦🇬 Antigua and Barbuda
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇦🇬 Antigua and Barbuda
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇦🇼 Aruba
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇧🇸 Bahamas
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇧🇧 Barbados
@@ -212,9 +215,9 @@ Any feedback is greatly appreciated.
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇬🇾 Guyana
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇭🇹 Haiti
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇯🇲 Jamaica
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇲🇶 Martinique
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇶 Martinique
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇲🇸 Montserrat
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇵🇷 Puerto Rico
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇵🇷 Puerto Rico
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇰🇳 Saint Kitts and Nevis
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇱🇨 Saint Lucia
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇲🇫 Saint Martin
