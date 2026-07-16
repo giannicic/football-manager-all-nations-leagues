@@ -73,14 +73,16 @@ Any feedback is greatly appreciated.
  - Myanmar (Myanmar National League II) (Myanmar Women's League)
  - Ivory Coast (Ivorian D3) (Ivory Coast Women's 
  - Zambia (Zambian First Division) (Zambia Women's Championship)
+ - French Guiana (French Guianese Régional 2)
+ - Andorra (Andorran Second Division)
 
 # In progress
 
- - French Guiana, Andorra
+ - Equatorial Guinea, Guadeloupe
 
 # Overall Status
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 48% (69/143)
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 49% (71/143)
 
 ## AFC
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇦🇺 Australia
@@ -158,7 +160,7 @@ Any feedback is greatly appreciated.
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇹🇩 Chad
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇨🇬 Congo
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇨🇩 DR Congo
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇬🇶 Equatorial Guinea
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇬🇶 Equatorial Guinea
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇬🇦 Gabon
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇸🇹 São Tomé and Príncipe
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇧🇮 Burundi
@@ -213,9 +215,9 @@ Any feedback is greatly appreciated.
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇨🇼 Curaçao
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇩🇲 Dominica
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇩🇴 Dominican Republic
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇬🇫 French Guiana
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇬🇫 French Guiana
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇬🇩 Grenada
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇬🇵 Guadeloupe
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇬🇵 Guadeloupe
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇬🇾 Guyana
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇭🇹 Haiti
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇯🇲 Jamaica
@@ -261,7 +263,7 @@ Any feedback is greatly appreciated.
 
 ## UEFA
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇦🇱 Albania
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇦🇩 Andorra
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇦🇩 Andorra
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇦🇲 Armenia
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇦🇹 Austria
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇦🇿 Azerbaijan
