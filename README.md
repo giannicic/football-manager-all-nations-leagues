@@ -55,7 +55,7 @@ Any feedback is greatly appreciated.
  - Cambodia (Cambodian Premier League)
  - Angola (Angolan Championship)
  - Philippines (Philippines Football League)
- - Syria (Syrian First 
+ - Syria (Syrian First Division)
  - DR Congo (DR Congolese Premier Division)
  - Cameroon (Cameroonian Elite Two) (Cameroon First Division)
  - Haiti (Haitian Championnat National D1)
@@ -81,10 +81,11 @@ Any feedback is greatly appreciated.
  - Maldives (Maldivian Dhivehi League)
  - Rwanda (Rwandan Premier Division) (Rwanda Women's League)
  - Congo (Congolese Championnat National)
+ - Ethiopia (Ethiopian Premier Division) (Ethiopian Women's Premier League)
 
 # In progress
 
- - Ethiopia
+ - Fiji
 
 # Overall Status
 
@@ -172,7 +173,7 @@ Any feedback is greatly appreciated.
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇧🇮 Burundi
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇩🇯 Djibouti
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇪🇷 Eritrea
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇪🇹 Ethiopia
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇪🇹 Ethiopia
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇰🇪 Kenya
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇷🇼 Rwanda
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇸🇴 Somalia
@@ -255,7 +256,7 @@ Any feedback is greatly appreciated.
 ## OFC
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇦🇸 American Samoa
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇨🇰 Cook Islands
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇫🇯 Fiji
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇫🇯 Fiji
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇰🇮 Kiribati
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇳🇨 New Caledonia
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇳🇿 New Zealand
