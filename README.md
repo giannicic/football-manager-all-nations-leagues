@@ -83,14 +83,16 @@ Any feedback is greatly appreciated.
  - Congo (Congolese Championnat National)
  - Ethiopia (Ethiopian Premier Division) (Ethiopian Women's Premier League)
  - Fiji (Fijian Premier League)
+ - Vanuatu (Vanuatuan Second Divisions)
+ - Mali (Malian Ligue 2) (Mali Women's Championship)
 
 # In progress
 
- - Vanuatu, Mali
+ - Tahiti, Uganda
 
 # Overall Status
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 55% (79/143)
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 56% (81/143)
 
 ## AFC
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇦🇺 Australia
@@ -156,7 +158,7 @@ Any feedback is greatly appreciated.
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇬🇼 Guinea-Bissau
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇨🇮 Ivory Coast
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇱🇷 Liberia
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇲🇱 Mali
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇱 Mali
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇲🇷 Mauritania
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇳🇪 Niger
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇳🇬 Nigeria
@@ -181,7 +183,7 @@ Any feedback is greatly appreciated.
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇸🇸 South Sudan
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇸🇩 Sudan
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇹🇿 Tanzania
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇺🇬 Uganda
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇺🇬 Uganda
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇹🇿 Zanzibar
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇦🇴 Angola
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇼 Botswana
@@ -264,10 +266,10 @@ Any feedback is greatly appreciated.
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇵🇬 Papua New Guinea
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇼🇸 Samoa
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇸🇧 Solomon Islands
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇵🇫 Tahiti
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇵🇫 Tahiti
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇹🇴 Tonga
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇹🇻 Tuvalu
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇻🇺 Vanuatu
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇻🇺 Vanuatu
 
 ## UEFA
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇦🇱 Albania
