@@ -108,14 +108,15 @@ Any feedback is greatly appreciated.
  - Burkina Faso (Burkinabé D2) (Burkina Faso Women's Championship)
  - Aruba (Aruban Division di Honor) (Aruban Women's Football League)
  - Solomon Islands (Solomon Islands S-League) (Solomon Islands Women's Premier League)
+ - Laos (Laotian Premier League) (Lao Women's League)
 
 # In progress
 
- - Laos
+ - Réunion, San Marino, Macau, Nepal
 
 # Overall Status
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 72% (104/143)
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 73% (105/143)
 
 ## AFC
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇦🇺 Australia
@@ -123,7 +124,7 @@ Any feedback is greatly appreciated.
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇰🇭 Cambodia
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇹🇱 Timor-Leste
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇮🇩 Indonesia
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇱🇦 Laos
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇱🇦 Laos
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇲🇾 Malaysia
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇲 Myanmar
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇵🇭 Philippines
@@ -143,14 +144,14 @@ Any feedback is greatly appreciated.
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇭🇰 Hong Kong, China
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇯🇵 Japan
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇰🇷 South Korea
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇲🇴 Macau
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇲🇴 Macau
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇳 Mongolia
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇲🇵 Northern Mariana Islands
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇩 Bangladesh
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇧🇹 Bhutan
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇮🇳 India
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇻 Maldives
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇳🇵   Nepal
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇳🇵 Nepal
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇵🇰 Pakistan
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇱🇰 Sri Lanka
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇭 Bahrain
@@ -222,7 +223,7 @@ Any feedback is greatly appreciated.
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇿🇦 South Africa
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇿🇲 Zambia	
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇿🇼 Zimbabwe
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇷🇪 Réunion
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇷🇪 Réunion
 
 ## CONCACAF
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇨🇦 Canada
@@ -339,7 +340,7 @@ Any feedback is greatly appreciated.
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇮🇪 Republic of Ireland
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇷🇴 Romania
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇷🇺 Russia
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇸🇲 San Marino
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇸🇲 San Marino
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇷🇸 Serbia
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇸🇰 Slovakia
