@@ -107,14 +107,15 @@ Any feedback is greatly appreciated.
  - Saint Lucia (SLFA Second Division)
  - Burkina Faso (Burkinabé D2) (Burkina Faso Women's Championship)
  - Aruba (Aruban Division di Honor) (Aruban Women's Football League)
+ - Solomon Islands (Solomon Islands S-League) (Solomon Islands Women's Premier League)
 
 # In progress
 
- - Solomon Islands
+ - Laos
 
 # Overall Status
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 72% (103/143)
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 72% (104/143)
 
 ## AFC
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇦🇺 Australia
@@ -122,7 +123,7 @@ Any feedback is greatly appreciated.
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇰🇭 Cambodia
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇹🇱 Timor-Leste
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇮🇩 Indonesia
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇱🇦 Laos
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇱🇦 Laos
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇲🇾 Malaysia
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇲 Myanmar
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇵🇭 Philippines
@@ -287,7 +288,7 @@ Any feedback is greatly appreciated.
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇳🇿 New Zealand
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇵🇬 Papua New Guinea
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇼🇸 Samoa
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇸🇧 Solomon Islands
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇸🇧 Solomon Islands
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇵🇫 Tahiti
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇹🇴 Tonga
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇹🇻 Tuvalu
