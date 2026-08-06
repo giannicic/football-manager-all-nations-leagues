@@ -109,14 +109,18 @@ Any feedback is greatly appreciated.
  - Aruba (Aruban Division di Honor) (Aruban Women's Football League)
  - Solomon Islands (Solomon Islands S-League) (Solomon Islands Women's Premier League)
  - Laos (Laotian Premier League) (Lao Women's League)
+ - Réunion (Réunion Regional 1)
+ - San Marino (San Marino League)
+ - Macau (Macanese Third Division) (Macau Women's Football League)
+ - Nepal (Nepali Super League)
 
 # In progress
 
- - Réunion, San Marino, Macau, Nepal
+ - Saint Vincent and the Grenadines, Grenada
 
 # Overall Status
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 73% (105/143)
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 76% (109/143)
 
 ## AFC
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇦🇺 Australia
@@ -144,14 +148,14 @@ Any feedback is greatly appreciated.
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇭🇰 Hong Kong, China
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇯🇵 Japan
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇰🇷 South Korea
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇲🇴 Macau
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇴 Macau
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇳 Mongolia
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇲🇵 Northern Mariana Islands
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇩 Bangladesh
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇧🇹 Bhutan
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇮🇳 India
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇻 Maldives
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇳🇵 Nepal
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇳🇵 Nepal
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇵🇰 Pakistan
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇱🇰 Sri Lanka
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇭 Bahrain
@@ -223,7 +227,7 @@ Any feedback is greatly appreciated.
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇿🇦 South Africa
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇿🇲 Zambia	
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇿🇼 Zimbabwe
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇷🇪 Réunion
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇷🇪 Réunion
 
 ## CONCACAF
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇨🇦 Canada
@@ -250,7 +254,7 @@ Any feedback is greatly appreciated.
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇩🇲 Dominica
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇩🇴 Dominican Republic
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇬🇫 French Guiana
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇬🇩 Grenada
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇬🇩 Grenada
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇬🇵 Guadeloupe
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇬🇾 Guyana
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇭🇹 Haiti
@@ -261,7 +265,7 @@ Any feedback is greatly appreciated.
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇰🇳 Saint Kitts and Nevis
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇱🇨 Saint Lucia
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇲🇫 Saint Martin
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇻🇨 Saint Vincent and the Grenadines
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇻🇨 Saint Vincent and the Grenadines
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇸🇽 Sint Maarten
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇸🇷 Suriname
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇹🇹 Trinidad and Tobago
@@ -340,7 +344,7 @@ Any feedback is greatly appreciated.
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇮🇪 Republic of Ireland
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇷🇴 Romania
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇷🇺 Russia
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇸🇲 San Marino
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇸🇲 San Marino
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇷🇸 Serbia
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇸🇰 Slovakia
