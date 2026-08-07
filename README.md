@@ -113,14 +113,16 @@ Any feedback is greatly appreciated.
  - San Marino (San Marino League)
  - Macau (Macanese Third Division) (Macau Women's Football League)
  - Nepal (Nepali Super League)
+ - Saint Vincent and the Grenadines (SVG Premier Division)
+ - Grenada (Grenadian Division One) (Grenada Women's Football League)
 
 # In progress
 
- - Saint Vincent and the Grenadines, Grenada
+ - Gambia, Zimbabwe
 
 # Overall Status
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 76% (109/143)
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 77% (111/143)
 
 ## AFC
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇦🇺 Australia
@@ -180,7 +182,7 @@ Any feedback is greatly appreciated.
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇯 Benin
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇫 Burkina Faso
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇨🇻 Cape Verde
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇬🇲 Gambia
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇬🇲 Gambia
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇬🇭 Ghana
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇬🇳 Guinea
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇬🇼 Guinea-Bissau
@@ -226,7 +228,7 @@ Any feedback is greatly appreciated.
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇸🇨 Seychelles
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇿🇦 South Africa
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇿🇲 Zambia	
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇿🇼 Zimbabwe
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇿🇼 Zimbabwe
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇷🇪 Réunion
 
 ## CONCACAF
@@ -254,7 +256,7 @@ Any feedback is greatly appreciated.
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇩🇲 Dominica
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇩🇴 Dominican Republic
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇬🇫 French Guiana
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇬🇩 Grenada
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇬🇩 Grenada
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇬🇵 Guadeloupe
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇬🇾 Guyana
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇭🇹 Haiti
@@ -265,7 +267,7 @@ Any feedback is greatly appreciated.
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇰🇳 Saint Kitts and Nevis
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇱🇨 Saint Lucia
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇲🇫 Saint Martin
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇻🇨 Saint Vincent and the Grenadines
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇻🇨 Saint Vincent and the Grenadines
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇸🇽 Sint Maarten
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇸🇷 Suriname
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇹🇹 Trinidad and Tobago
