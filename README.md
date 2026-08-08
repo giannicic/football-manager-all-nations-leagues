@@ -115,14 +115,16 @@ Any feedback is greatly appreciated.
  - Nepal (Nepali Super League)
  - Saint Vincent and the Grenadines (SVG Premier Division)
  - Grenada (Grenadian Division One) (Grenada Women's Football League)
+ - Gambia (Gambian Second Division) (The Gambia Women's Championship)
+ - Zimbabwe (Zimbabwean Premier Division) (Zimbabwe First Division)
 
 # In progress
 
- - Gambia, Zimbabwe
+ - Lesotho, Gabon, Namibia
 
 # Overall Status
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 77% (111/143)
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 79% (113/143)
 
 ## AFC
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇦🇺 Australia
@@ -182,7 +184,7 @@ Any feedback is greatly appreciated.
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇯 Benin
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇫 Burkina Faso
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇨🇻 Cape Verde
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇬🇲 Gambia
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇬🇲 Gambia
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇬🇭 Ghana
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇬🇳 Guinea
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇬🇼 Guinea-Bissau
@@ -201,7 +203,7 @@ Any feedback is greatly appreciated.
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇨🇬 Congo
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇨🇩 DR Congo
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇬🇶 Equatorial Guinea
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇬🇦 Gabon
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇬🇦 Gabon
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇸🇹 São Tomé and Príncipe
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇮 Burundi
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇩🇯 Djibouti
@@ -219,16 +221,16 @@ Any feedback is greatly appreciated.
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇼 Botswana
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇰🇲 Comoros
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇸🇿 Eswatini
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇱🇸 Lesotho
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇱🇸 Lesotho
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇲🇬 Madagascar
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇼 Malawi
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇲🇺 Mauritius
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇿 Mozambique
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇳🇦 Namibia
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇳🇦 Namibia
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇸🇨 Seychelles
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇿🇦 South Africa
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇿🇲 Zambia	
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇿🇼 Zimbabwe
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇿🇼 Zimbabwe
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇷🇪 Réunion
 
 ## CONCACAF
