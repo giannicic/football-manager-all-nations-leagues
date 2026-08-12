@@ -129,14 +129,16 @@ Any feedback is greatly appreciated.
  - Zanzibar (Zanzibari Premier Division)
  - Sierra Leone (Sierra Leonean Premier League) (Sierra Leone First Division)
  - Liechtenstein (Liechtensteiner Cup)
+ - Madagascar (Madagascar Pro League)
+ - Central African Republic (Central African Premier Division)
 
 # In progress
 
- - Madagascar, Central African Republic
+ - British Virgin Islands, Eswatini
 
 # Overall Status
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 76% (125/163)
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 77% (127/163)
 
 ## AFC
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇦🇺 Australia
@@ -210,7 +212,7 @@ Any feedback is greatly appreciated.
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇸🇱 Sierra Leone
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇹🇬 Togo
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇨🇲 Cameroon
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇨🇫 Central African Republic
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇨🇫 Central African Republic
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇹🇩 Chad
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇨🇬 Congo
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇨🇩 DR Congo
@@ -232,9 +234,9 @@ Any feedback is greatly appreciated.
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇦🇴 Angola
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇼 Botswana
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇰🇲 Comoros
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇸🇿 Eswatini
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇸🇿 Eswatini
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇱🇸 Lesotho
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇲🇬 Madagascar
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇬 Madagascar
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇼 Malawi
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇲🇺 Mauritius
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇿 Mozambique
@@ -263,7 +265,7 @@ Any feedback is greatly appreciated.
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇧🇧 Barbados
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇲 Bermuda
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇧🇶 Bonaire
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇻🇬 British Virgin Islands
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇻🇬 British Virgin Islands
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇰🇾 Cayman Islands
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇨🇺 Cuba
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇨🇼 Curaçao
