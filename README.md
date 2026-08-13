@@ -131,14 +131,16 @@ Any feedback is greatly appreciated.
  - Liechtenstein (Liechtensteiner Cup)
  - Madagascar (Madagascar Pro League)
  - Central African Republic (Central African Premier Division)
+ - British Virgin Islands (BVI Premier League)
+ - Eswatini (Premier League of Eswatini) (Eswatini Women's League)
 
 # In progress
 
- - British Virgin Islands, Eswatini
+ - Saint Martin, Sint Maarten, Cape Verde, South Sudan, Yemen, Belize, Tonga
 
 # Overall Status
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 77% (127/163)
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 79% (129/163)
 
 ## AFC
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇦🇺 Australia
@@ -187,7 +189,7 @@ Any feedback is greatly appreciated.
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇸🇦 Saudi Arabia
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇸🇾 Syria
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇦🇪 United Arab Emirates
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇾🇪 Yemen
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇾🇪 Yemen
 
 ## CAF
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇩🇿 Algeria
@@ -197,7 +199,7 @@ Any feedback is greatly appreciated.
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇹🇳 Tunisia
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇯 Benin
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇫 Burkina Faso
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇨🇻 Cape Verde
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇨🇻 Cape Verde
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇬🇲 Gambia
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇬🇭 Ghana
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇬🇳 Guinea
@@ -226,7 +228,7 @@ Any feedback is greatly appreciated.
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇰🇪 Kenya
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇷🇼 Rwanda
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇸🇴 Somalia
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇸🇸 South Sudan
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇸🇸 South Sudan
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇸🇩 Sudan
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇹🇿 Tanzania
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇺🇬 Uganda
@@ -234,7 +236,7 @@ Any feedback is greatly appreciated.
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇦🇴 Angola
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇼 Botswana
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇰🇲 Comoros
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇸🇿 Eswatini
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇸🇿 Eswatini
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇱🇸 Lesotho
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇬 Madagascar
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇼 Malawi
@@ -251,7 +253,7 @@ Any feedback is greatly appreciated.
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇨🇦 Canada
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇲🇽 Mexico
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇺🇸 United States
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇧🇿 Belize
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇧🇿 Belize
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇨🇷 Costa Rica
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇸🇻 El Salvador
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇬🇹 Guatemala
@@ -265,7 +267,7 @@ Any feedback is greatly appreciated.
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇧🇧 Barbados
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇲 Bermuda
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇧🇶 Bonaire
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇻🇬 British Virgin Islands
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇻🇬 British Virgin Islands
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇰🇾 Cayman Islands
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇨🇺 Cuba
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇨🇼 Curaçao
@@ -282,9 +284,9 @@ Any feedback is greatly appreciated.
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇵🇷 Puerto Rico
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇰🇳 Saint Kitts and Nevis
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇱🇨 Saint Lucia
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇲🇫 Saint Martin
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇲🇫 Saint Martin
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇻🇨 Saint Vincent and the Grenadines
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇸🇽 Sint Maarten
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇸🇽 Sint Maarten
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇸🇷 Suriname
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇹🇹 Trinidad and Tobago
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇹🇨 Turks and Caicos Islands
@@ -313,7 +315,7 @@ Any feedback is greatly appreciated.
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇼🇸 Samoa
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇸🇧 Solomon Islands
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇵🇫 Tahiti
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇹🇴 Tonga
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇹🇴 Tonga
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇹🇻 Tuvalu
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇻🇺 Vanuatu
 
