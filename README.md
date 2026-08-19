@@ -151,14 +151,17 @@ Any feedback is greatly appreciated.
  - Bahamas (Bahamian Senior League) (Bahamian Women's Football League)
  - U.S. Virgin Islands (US Virgin Islands Premier League)
  - Barbados (BFA Division One) (Bajan FA Women's Division One)
+ - São Tomé and Príncipe (São Toméan Football Premier Division)
+ - Montserrat (Montserratian Championship)
+ - Sri Lanka (Sri Lankan Premier League)
 
 # In progress
 
- - São Tomé and Príncipe, Montserrat, Sri Lanka
+ - Tuvalu, Pakistan
 
 # Overall Status
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90% (147/163)
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 920% (150/163)
 
 ## AFC
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇦🇺 Australia
@@ -194,8 +197,8 @@ Any feedback is greatly appreciated.
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇮🇳 India
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇻 Maldives
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇳🇵 Nepal
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇵🇰 Pakistan
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇱🇰 Sri Lanka
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇵🇰 Pakistan
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇱🇰 Sri Lanka
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇭 Bahrain
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇮🇶 Iraq
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇯🇴 Jordan
@@ -238,7 +241,7 @@ Any feedback is greatly appreciated.
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇨🇩 DR Congo
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇬🇶 Equatorial Guinea
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇬🇦 Gabon
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇸🇹 São Tomé and Príncipe
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇸🇹 São Tomé and Príncipe
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇮 Burundi
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇩🇯 Djibouti
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇪🇷 Eritrea
@@ -298,7 +301,7 @@ Any feedback is greatly appreciated.
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇭🇹 Haiti
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇯🇲 Jamaica
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇶 Martinique
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇲🇸 Montserrat
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇸 Montserrat
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇵🇷 Puerto Rico
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇰🇳 Saint Kitts and Nevis
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇱🇨 Saint Lucia
@@ -334,7 +337,7 @@ Any feedback is greatly appreciated.
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇸🇧 Solomon Islands
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇵🇫 Tahiti
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇹🇴 Tonga
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇹🇻 Tuvalu
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇹🇻 Tuvalu
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇻🇺 Vanuatu
 
 ## UEFA
