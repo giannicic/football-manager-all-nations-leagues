@@ -156,20 +156,22 @@ Any feedback is greatly appreciated.
  - Sri Lanka (Sri Lankan Premier League)
  - Tuvalu (Tuvaluan A-Division) (Tuvalu First Division)
  - Pakistan (Pakistani Football Federation League) (National Women Football Championship)
+ - Timor-Leste (East Timorese Second Division) (East Timor Women's League)
+ - Mauritius (Mauritian Premier Division) (Mauritius Women's League)
 
 # In progress
 
- - Timor-Leste, Mauritius
+ - Comoros, Liberia, Guam, Northern Mariana Islands, Seychelles
 
 # Overall Status
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 93% (152/163)
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 94% (154/163)
 
 ## AFC
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇦🇺 Australia
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇧🇳 Brunei
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇰🇭 Cambodia
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇹🇱 Timor-Leste
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇹🇱 Timor-Leste
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇮🇩 Indonesia
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇱🇦 Laos
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇲🇾 Malaysia
@@ -187,13 +189,13 @@ Any feedback is greatly appreciated.
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇨🇳 China
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇹🇼 Chinese Taipei
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇰🇵 North Korea
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇬🇺 Guam
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇬🇺 Guam
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇭🇰 Hong Kong, China
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇯🇵 Japan
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇰🇷 South Korea
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇴 Macau
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇳 Mongolia
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇲🇵 Northern Mariana Islands
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇲🇵 Northern Mariana Islands
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇩 Bangladesh
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇹 Bhutan
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇮🇳 India
@@ -228,7 +230,7 @@ Any feedback is greatly appreciated.
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇬🇳 Guinea
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇬🇼 Guinea-Bissau
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇨🇮 Ivory Coast
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇱🇷 Liberia
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇱🇷 Liberia
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇱 Mali
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇷 Mauritania
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇳🇪 Niger
@@ -258,15 +260,15 @@ Any feedback is greatly appreciated.
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇹🇿 Zanzibar
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇦🇴 Angola
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇼 Botswana
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇰🇲 Comoros
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇰🇲 Comoros
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇸🇿 Eswatini
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇱🇸 Lesotho
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇬 Madagascar
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇼 Malawi
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇲🇺 Mauritius
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇺 Mauritius
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇿 Mozambique
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇳🇦 Namibia
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇸🇨 Seychelles
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇸🇨 Seychelles
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇿🇦 South Africa
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇿🇲 Zambia	
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇿🇼 Zimbabwe
