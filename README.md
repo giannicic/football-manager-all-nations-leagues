@@ -166,14 +166,15 @@ Any feedback is greatly appreciated.
  - American Samoa (American Samoan Senior League Division One)
  - Brunei (Bruneian Super League)
  - Afghanistan (Afghan Premier League)
+ - Eritrea (Eritrean Premier Division)
 
 # In progress
 
- - Eritrea
+ - Kiribati
 
 # Overall Status
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 98% (162/164)
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 99% (163/164)
 
 ## AFC
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇦🇺 Australia
@@ -256,7 +257,7 @@ Any feedback is greatly appreciated.
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇸🇹 São Tomé and Príncipe
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇮 Burundi
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇩🇯 Djibouti
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇪🇷 Eritrea
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇪🇷 Eritrea
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇪🇹 Ethiopia
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇰🇪 Kenya
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇷🇼 Rwanda
@@ -341,7 +342,7 @@ Any feedback is greatly appreciated.
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇦🇸 American Samoa
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇨🇰 Cook Islands
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇫🇯 Fiji
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇰🇮 Kiribati
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇰🇮 Kiribati
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇳🇨 New Caledonia
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇳🇿 New Zealand
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇵🇬 Papua New Guinea
