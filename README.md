@@ -163,18 +163,19 @@ Any feedback is greatly appreciated.
  - Guam (Guamese Amateur Soccer League) (Guam First Division)
  - Northern Mariana Islands (Northern Marianas League Division B) (Women's M League)
  - Seychelles (Seychelles Championship) (Seychelles Women's League)
+ - American Samoa (American Samoan Senior League Division One)
 
 # In progress
 
- - American Samoa
+ - Brunei, Afghanistan
 
 # Overall Status
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 96% (159/164)
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 97% (160/164)
 
 ## AFC
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇦🇺 Australia
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇧🇳 Brunei
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇧🇳 Brunei
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇰🇭 Cambodia
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇹🇱 Timor-Leste
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇮🇩 Indonesia
@@ -185,7 +186,7 @@ Any feedback is greatly appreciated.
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇸🇬 Singapore
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇹🇭 Thailand
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇻🇳 Vietnam
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇦🇫 Afghanistan
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇦🇫 Afghanistan
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇮🇷 Iran
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇰🇬 Kyrgyzstan
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇹🇯 Tajikistan
@@ -335,7 +336,7 @@ Any feedback is greatly appreciated.
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇻🇪 Venezuela
 
 ## OFC
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇦🇸 American Samoa
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇦🇸 American Samoa
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇨🇰 Cook Islands
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇫🇯 Fiji
  - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇰🇮 Kiribati
