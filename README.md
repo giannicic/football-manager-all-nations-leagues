@@ -167,14 +167,11 @@ Any feedback is greatly appreciated.
  - Brunei (Bruneian Super League)
  - Afghanistan (Afghan Premier League)
  - Eritrea (Eritrean Premier Division)
-
-# In progress
-
- - Kiribati
+ - Kiribati (Kiribatian National Championship)
 
 # Overall Status
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 99% (163/164)
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% (164/164)
 
 ## AFC
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇦🇺 Australia
@@ -342,7 +339,7 @@ Any feedback is greatly appreciated.
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇦🇸 American Samoa
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇨🇰 Cook Islands
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇫🇯 Fiji
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇰🇮 Kiribati
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇰🇮 Kiribati
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇳🇨 New Caledonia
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇳🇿 New Zealand
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇵🇬 Papua New Guinea
