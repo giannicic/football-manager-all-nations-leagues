@@ -164,18 +164,20 @@ Any feedback is greatly appreciated.
  - Northern Mariana Islands (Northern Marianas League Division B) (Women's M League)
  - Seychelles (Seychelles Championship) (Seychelles Women's League)
  - American Samoa (American Samoan Senior League Division One)
+ - Brunei (Bruneian Super League)
+ - Afghanistan (Afghan Premier League)
 
 # In progress
 
- - Brunei, Afghanistan
+ - Eritrea
 
 # Overall Status
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 97% (160/164)
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 98% (162/164)
 
 ## AFC
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇦🇺 Australia
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇧🇳 Brunei
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇳 Brunei
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇰🇭 Cambodia
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇹🇱 Timor-Leste
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇮🇩 Indonesia
@@ -186,7 +188,7 @@ Any feedback is greatly appreciated.
  - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇸🇬 Singapore
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇹🇭 Thailand
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇻🇳 Vietnam
- - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇦🇫 Afghanistan
+ - ![Done](https://img.shields.io/badge/Done-32CD32) 🇦🇫 Afghanistan
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇮🇷 Iran
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇰🇬 Kyrgyzstan
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇹🇯 Tajikistan
@@ -254,7 +256,7 @@ Any feedback is greatly appreciated.
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇸🇹 São Tomé and Príncipe
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇮 Burundi
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇩🇯 Djibouti
- - ![Pending](https://img.shields.io/badge/Pending-FFD700) 🇪🇷 Eritrea
+ - ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) 🇪🇷 Eritrea
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇪🇹 Ethiopia
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇰🇪 Kenya
  - ![Done](https://img.shields.io/badge/Done-32CD32) 🇷🇼 Rwanda
