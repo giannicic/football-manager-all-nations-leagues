@@ -1,414 +1,266 @@
-# Football Manager 2026: World Leagues
+# Football Manager 2027: World Leagues
 Nation files from around the world. For and endless career!
 Any feedback is greatly appreciated.
 
 # Created so far
 
- - Cyprus (Third Division)
- - Saudi Arabia (Third Division)
- - Paraguay (Primera C) (Women's Football Championship)
- - Ecuador (Ecuadorian Ascenso Nacional) (Ecuadorian Women's First Division)
- - Azerbaijan (Azeri Regional League)
- - Moldova (Moldovan Liga 2) (Moldova Women's League)
- - Morocco (Ligue National de Football Amateur 1) (Moroccan Second Division)
- - Iran (Iranian Second Division) (Kowsar Women's League)
- - Bosnia and Herzegovina (Bosnian Second League) (Bosnian Premier League)
- - Qatar (Qatari Second Division) 
- - Algeria (Algerian Ligue 2) (Algeria First Division)
- - Costa Rica (Costa Rican Lower Division) (Costa Rican Women's Premier Division)
- - Armenia (Armenian Amateur League B) (Armenia Women's First League)
- - Kazakhstan (Kazakhstan Premier League) (Kazakhstani Women's Football Championship)
- - Uzbekistan (Uzbek Birinchi Liga) (Uzbekistan First League)
- - Bolivia (Bolivian Premier Division) (Bolivian Women's Championship)
- - Nigeria (Nigerian Second Division) (Nigeria First Division)
- - Thailand (Thailand Semi-Pro League National Championship) (Thai Women's League 2)
- - Venezuela (Venezuelan Second Division) (Venezuelan Women's Super League)
- - Tunisia (Tunisian Amateur League 1)
- - Vietnam (Vietnamese Second Division) (Vietnamese Women's National League)
- - Honduras (Liga de Ascenso de Honduras)
- - Jordan (Jordanian Second Division League) (Jordan Women's Pro League)
- - Albania (Albanian Third Category) (Albanian Women's National Championship)
- - Iraq (Iraqi Second Division League) (Iraqi Women's Football League)
- - Montenegro (Montenegrin Second League) (Montenegrin Women's League)
- - North Macedonia (North Macedonian Third League) (North Macedonia Women's Second League)
- - Bahrain (Bahrain First Division)
- - Oman (Omani First Division)
- - Kuwait (Kuwaiti First Division)
- - Tanzania (Tanzanian Championship) (Tanzania Women's Premier League)
- - Guatemala (Primera División de Ascenso Guatemala) (Guatemala First Division)
- - Panama (Liga Nacional de Ascenso Panama) (Panama Women's Premier Division)
- - El Salvador (El Salvador Segunda División) (El Salvador First Division)
- - Kosovo (Kosovan Second League) (Kosovo Liga e Parë – Femrat)
- - Turkmenistan (Turkmenistani Higher League)
- - Kyrgyzstan (Kyrgyzstani National League) (Kyrgyzstan Women's League)
- - Sudan (Sudanese Premier League)
- - Jamaica (Jamaican Football Federation Championship) (Jamaican Women's Premier League)
- - Faroe Islands (Faroese Third Division) (Faroese Women's Premier League)
- - Lebanon (Lebanese Second Division) (Lebanese Women's Football League)
- - Nicaragua (Segunda división de Nicaragua) (Women's First Division)
- - Tajikistan (Tajikistani First Division)
- - Trinidad and Tobago (TT Premier Football League Tier 1)
- - New Zealand (New Zealand Regional Premier Leagues)
- - Malta (Maltese National Amateur League 2) (Maltese Women's First Division)
- - Libya (Libyan Premier League)
- - Bangladesh (Bangladeshi Dhaka Senior Division Football League) (Bangladesh Women's Football League)
- - Cambodia (Cambodian Premier League)
- - Angola (Angolan Championship)
- - Philippines (Philippines Football League)
- - Syria (Syrian First Division)
- - DR Congo (DR Congolese Premier Division)
- - Cameroon (Cameroonian Elite Two) (Cameroon First Division)
- - Haiti (Haitian Championnat National D1)
- - Ghana (Ghana Division One League) (Ghana First Division)
- - Estonia (Estonian Premier League) (Estonian Women's First League)
- - North Korea (DPR Premier Football League) (North Korea First Division)
- - Suriname (Suriname Major League)
- - Georgia (Georgian Regional League) (Georgia Women's Second League)
- - Luxembourg (Luxembourg First Division) (Luxembourg Women's League)
- - Guinea (Guinean Ligue 1) (Guinea Women's Championship)
- - Puerto Rico (Liga Puerto Rico) (Liga Puerto Rico Femenina)
- - Martinique (Martinican Trophee de Charles-Alfred R2) (Martinique WFL)
- - Antigua and Barbuda (Antigua and Barbuda Second Division)
- - Chinese Taipei (Chinese Taipei Second Division) (Chinese Taipei Mulan Football League)
- - Myanmar (Myanmar National League II) (Myanmar Women's League)
- - Ivory Coast (Ivorian D3) (Ivory Coast Women's 
- - Zambia (Zambian First Division) (Zambia Women's Championship)
- - French Guiana (French Guianese Régional 2)
- - Andorra (Andorran Second Division)
- - Equatorial Guinea (Equatoguinean Second Division) (Equatorial Guinea First Division)
- - Guadeloupe (Guadeloupe Ligue Régionale 2)
- - Botswana (Botswanan Premier Division)
- - Maldives (Maldivian Dhivehi League)
- - Rwanda (Rwandan Premier Division) (Rwanda Women's League)
- - Congo (Congolese Championnat National)
- - Ethiopia (Ethiopian Premier Division) (Ethiopian Women's Premier League)
- - Fiji (Fijian Premier League)
- - Vanuatu (Vanuatuan Second Divisions)
- - Mali (Malian Ligue 2) (Mali Women's Championship)
- - Tahiti (Tahitian Second Division) (Tahiti Women's First Division)
- - Uganda (Uganda Big League) (Ugandan Second Division)
- - Kenya (Kenyan Super League) (Kenya First Division)
- - Dominican Republic (Liga Dominicana de Fútbol)
- - Senegal (Senegalese Ligue 2) (Senegal Women's Championship)
- - Papua New Guinea (Papua New Guinean National Soccer League) (Papua New Guinea Women's League)
- - Togo (Togolese Second Division) (Togo Women's Championship)
- - Malawi (Malawian Super League) (Malawi First Division)
- - Cuba (Cuban National League)
- - Saint Kitts and Nevis (Saint Kitts & Nevis First Division)
- - Mongolia (Mongolian Division-1 League) (Mongolia Women's League)
- - Curaçao (Curaçao Segundo Division)
- - Guyana (Guyanese Elite League)
- - Niger (Nigerien Super Ligue) (Niger Women's League)
- - Burundi (Burundian Premier Division) (Burundi Women's Championship)
- - Palestine (Palestinian Second League)
- - Mozambique (Mozambican Premier Division) (Mozambique First Division)
- - Benin (Beninese Ligue 1) (Benin Women's Championship)
- - New Caledonia (New Caledonian Championnat Super Ligue)
- - Saint Lucia (SLFA Second Division)
- - Burkina Faso (Burkinabé D2) (Burkina Faso Women's Championship)
- - Aruba (Aruban Division di Honor) (Aruban Women's Football League)
- - Solomon Islands (Solomon Islands S-League) (Solomon Islands Women's Premier League)
- - Laos (Laotian Premier League) (Lao Women's League)
- - Réunion (Réunion Regional 1)
- - San Marino (San Marino League)
- - Macau (Macanese Third Division) (Macau Women's Football League)
- - Nepal (Nepali Super League)
- - Saint Vincent and the Grenadines (SVG Premier Division)
- - Grenada (Grenadian Division One) (Grenada Women's Football League)
- - Gambia (Gambian Second Division) (The Gambia Women's Championship)
- - Zimbabwe (Zimbabwean Premier Division) (Zimbabwe First Division)
- - Lesotho (Lesothoan Premier League) (Lesotho First Division)
- - Gabon (Gabonese National Foot 2)
- - Namibia (Namibian Premier Division) (Namibia Women's Super League)
- - Bhutan (Bhutan Premier League) (Bhutan's Women's National League)
- - Cayman Islands (Cayman Islands Premier League) (Caymanian Women's Premier League)
- - Turks and Caicos Islands (Turks and Caicos Islands Premier League) (TCI WFL)
- - Bermuda (Bermudan First Division)
- - Mauritania (Mauritanian Super D1)
- - Guinea-Bissau (Bissau-Guinean Second Division) (Guinea-Bissau Women's League)
- - Zanzibar (Zanzibari Premier Division)
- - Sierra Leone (Sierra Leonean Premier League) (Sierra Leone First Division)
- - Liechtenstein (Liechtensteiner Cup)
- - Madagascar (Madagascar Pro League)
- - Central African Republic (Central African Premier Division)
- - British Virgin Islands (BVI Premier League)
- - Eswatini (Premier League of Eswatini) (Eswatini Women's League)
- - Saint Martin (Saint-Martin Division D'Honneur)
- - Sint Maarten (Sint Maarten Championship) (SXMFF Women’s League)
- - Cape Verde (Cape Verdean National Championship)
- - South Sudan (South Sudanese Premier Division) (South Sudan Women's National League)
- - Yemen (Yemeni Second Division)
- - Belize (Belizean Premier Football League) (Belize WFL)
- - Tonga (Tongan Major League) (Tonga Women's League)
- - Cook Islands (Cook Islands Round Cup) (Cook Islands Women's League)
- - Chad (Chadian Premier Division)
- - Samoa (Samoan National League) (Samoa Women's Premier League)
- - Djibouti (Djiboutian First Division) (Djibouti Women's League)
- - Somalia (Somali Premier Division)
- - Dominica (Dominican Premier League) (DFA Women's Premier League)
- - Bonaire (Bonaire Kampionato)
- - Anguilla (Anguillan FA Senior Male League) (Anguilla Women's Football League)
- - Bahamas (Bahamian Senior League) (Bahamian Women's Football League)
- - U.S. Virgin Islands (US Virgin Islands Premier League)
- - Barbados (BFA Division One) (Bajan FA Women's Division One)
- - São Tomé and Príncipe (São Toméan Football Premier Division)
- - Montserrat (Montserratian Championship)
- - Sri Lanka (Sri Lankan Premier League)
- - Tuvalu (Tuvaluan A-Division) (Tuvalu First Division)
- - Pakistan (Pakistani Football Federation League) (National Women Football Championship)
- - Timor-Leste (East Timorese Second Division) (East Timor Women's League)
- - Mauritius (Mauritian Premier Division) (Mauritius Women's League)
- - Comoros (Comorian Premier League) (Comorian First Division)
- - Liberia (Liberian Second Division) (Liberia First Division)
- - Guam (Guamese Amateur Soccer League) (Guam First Division)
- - Northern Mariana Islands (Northern Marianas League Division B) (Women's M League)
- - Seychelles (Seychelles Championship) (Seychelles Women's League)
- - American Samoa (American Samoan Senior League Division One)
- - Brunei (Bruneian Super League)
- - Afghanistan (Afghan Premier League)
- - Eritrea (Eritrean Premier Division)
- - Kiribati (Kiribatian National Championship)
-
 # Overall Status
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% (164/164)
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 100% (0/375)
 
 ## AFC
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇦🇺 Australia
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇳 Brunei
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇰🇭 Cambodia
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇹🇱 Timor-Leste
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇮🇩 Indonesia
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇱🇦 Laos
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇲🇾 Malaysia
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇲 Myanmar
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇵🇭 Philippines
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇸🇬 Singapore
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇹🇭 Thailand
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇻🇳 Vietnam
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇦🇫 Afghanistan
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇮🇷 Iran
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇰🇬 Kyrgyzstan
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇹🇯 Tajikistan
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇹🇲 Turkmenistan
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇺🇿 Uzbekistan
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇨🇳 China
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇹🇼 Chinese Taipei
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇰🇵 North Korea
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇬🇺 Guam
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇭🇰 Hong Kong, China
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇯🇵 Japan
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇰🇷 South Korea
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇴 Macau
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇳 Mongolia
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇵 Northern Mariana Islands
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇩 Bangladesh
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇹 Bhutan
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇮🇳 India
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇻 Maldives
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇳🇵 Nepal
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇵🇰 Pakistan
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇱🇰 Sri Lanka
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇭 Bahrain
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇮🇶 Iraq
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇯🇴 Jordan
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇰🇼 Kuwait
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇱🇧 Lebanon
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇴🇲 Oman
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇵🇸 Palestine
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇶🇦 Qatar
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇸🇦 Saudi Arabia
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇸🇾 Syria
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇦🇪 United Arab Emirates
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇾🇪 Yemen
+| Nation | M | W |
+|---|---|---|
+| 🇦🇺 Australia | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Provided](https://img.shields.io/badge/Provided-00AA00) |
+| 🇧🇳 Brunei | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇰🇭 Cambodia | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇹🇱 Timor-Leste | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇮🇩 Indonesia | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇱🇦 Laos | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇲🇾 Malaysia | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇲🇲 Myanmar | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇵🇭 Philippines | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇸🇬 Singapore | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇹🇭 Thailand | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇻🇳 Vietnam | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇦🇫 Afghanistan | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇮🇷 Iran | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇰🇬 Kyrgyzstan | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇹🇯 Tajikistan | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇹🇲 Turkmenistan | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇺🇿 Uzbekistan | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇨🇳 China | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇹🇼 Chinese Taipei | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇰🇵 North Korea | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇬🇺 Guam | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇭🇰 Hong Kong, China | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇯🇵 Japan | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Provided](https://img.shields.io/badge/Provided-00AA00) |
+| 🇰🇷 South Korea | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇲🇴 Macau | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇲🇳 Mongolia | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇲🇵 Northern Mariana Islands | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇧🇩 Bangladesh | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇧🇹 Bhutan | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇮🇳 India | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇲🇻 Maldives | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇳🇵 Nepal | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇵🇰 Pakistan | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇱🇰 Sri Lanka | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇧🇭 Bahrain | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇮🇶 Iraq | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇯🇴 Jordan | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇰🇼 Kuwait | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇱🇧 Lebanon | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇴🇲 Oman | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇵🇸 Palestine | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇶🇦 Qatar | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇸🇦 Saudi Arabia | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇸🇾 Syria | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇦🇪 United Arab Emirates | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇾🇪 Yemen | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 
 ## CAF
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇩🇿 Algeria
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇪🇬 Egypt
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇱🇾 Libya
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇦 Morocco
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇹🇳 Tunisia
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇯 Benin
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇫 Burkina Faso
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇨🇻 Cape Verde
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇬🇲 Gambia
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇬🇭 Ghana
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇬🇳 Guinea
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇬🇼 Guinea-Bissau
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇨🇮 Ivory Coast
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇱🇷 Liberia
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇱 Mali
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇷 Mauritania
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇳🇪 Niger
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇳🇬 Nigeria
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇸🇳 Senegal
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇸🇱 Sierra Leone
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇹🇬 Togo
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇨🇲 Cameroon
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇨🇫 Central African Republic
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇹🇩 Chad
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇨🇬 Congo
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇨🇩 DR Congo
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇬🇶 Equatorial Guinea
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇬🇦 Gabon
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇸🇹 São Tomé and Príncipe
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇮 Burundi
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇩🇯 Djibouti
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇪🇷 Eritrea
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇪🇹 Ethiopia
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇰🇪 Kenya
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇷🇼 Rwanda
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇸🇴 Somalia
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇸🇸 South Sudan
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇸🇩 Sudan
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇹🇿 Tanzania
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇺🇬 Uganda
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇹🇿 Zanzibar
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇦🇴 Angola
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇼 Botswana
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇰🇲 Comoros
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇸🇿 Eswatini
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇱🇸 Lesotho
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇬 Madagascar
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇼 Malawi
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇺 Mauritius
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇿 Mozambique
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇳🇦 Namibia
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇸🇨 Seychelles
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇿🇦 South Africa
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇿🇲 Zambia	
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇿🇼 Zimbabwe
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇷🇪 Réunion
+| Nation | M | W |
+|---|---|---|
+| 🇩🇿 Algeria | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇪🇬 Egypt | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇱🇾 Libya | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇲🇦 Morocco | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇹🇳 Tunisia | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇧🇯 Benin | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇧🇫 Burkina Faso | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇨🇻 Cape Verde | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇬🇲 Gambia | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇬🇭 Ghana | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇬🇳 Guinea | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇬🇼 Guinea-Bissau | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇨🇮 Ivory Coast | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇱🇷 Liberia | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇲🇱 Mali | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇲🇷 Mauritania | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇳🇪 Niger | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇳🇬 Nigeria | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇸🇳 Senegal | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇸🇱 Sierra Leone | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇹🇬 Togo | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇨🇲 Cameroon | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇨🇫 Central African Republic | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇹🇩 Chad | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇨🇬 Congo | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇨🇩 DR Congo | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇬🇶 Equatorial Guinea | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇬🇦 Gabon | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇸🇹 São Tomé and Príncipe | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇧🇮 Burundi | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇩🇯 Djibouti | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇪🇷 Eritrea | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇪🇹 Ethiopia | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇰🇪 Kenya | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇷🇼 Rwanda | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇸🇴 Somalia | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇸🇸 South Sudan | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇸🇩 Sudan | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇹🇿 Tanzania | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇺🇬 Uganda | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇹🇿 Zanzibar | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇦🇴 Angola | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇧🇼 Botswana | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇰🇲 Comoros | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇸🇿 Eswatini | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇱🇸 Lesotho | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇲🇬 Madagascar | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇲🇼 Malawi | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇲🇺 Mauritius | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇲🇿 Mozambique | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇳🇦 Namibia | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇸🇨 Seychelles | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇿🇦 South Africa | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇿🇲 Zambia | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇿🇼 Zimbabwe | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇷🇪 Réunion | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 
 ## CONCACAF
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇨🇦 Canada
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇲🇽 Mexico
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇺🇸 United States
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇿 Belize
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇨🇷 Costa Rica
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇸🇻 El Salvador
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇬🇹 Guatemala
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇭🇳 Honduras
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇳🇮 Nicaragua
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇵🇦 Panama
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇦🇮 Anguilla
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇦🇬 Antigua and Barbuda
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇦🇼 Aruba
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇸 Bahamas
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇧 Barbados
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇲 Bermuda
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇶 Bonaire
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇻🇬 British Virgin Islands
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇰🇾 Cayman Islands
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇨🇺 Cuba
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇨🇼 Curaçao
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇩🇲 Dominica
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇩🇴 Dominican Republic
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇬🇫 French Guiana
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇬🇩 Grenada
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇬🇵 Guadeloupe
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇬🇾 Guyana
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇭🇹 Haiti
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇯🇲 Jamaica
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇶 Martinique
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇸 Montserrat
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇵🇷 Puerto Rico
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇰🇳 Saint Kitts and Nevis
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇱🇨 Saint Lucia
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇫 Saint Martin
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇻🇨 Saint Vincent and the Grenadines
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇸🇽 Sint Maarten
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇸🇷 Suriname
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇹🇹 Trinidad and Tobago
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇹🇨 Turks and Caicos Islands
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇻🇮 U.S. Virgin Islands
+| Nation | M | W |
+|---|---|---|
+| 🇨🇦 Canada | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇲🇽 Mexico | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇺🇸 United States | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Provided](https://img.shields.io/badge/Provided-00AA00) |
+| 🇧🇿 Belize | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇨🇷 Costa Rica | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇸🇻 El Salvador | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇬🇹 Guatemala | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇭🇳 Honduras | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇳🇮 Nicaragua | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇵🇦 Panama | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇦🇮 Anguilla | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇦🇬 Antigua and Barbuda | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇦🇼 Aruba | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇧🇸 Bahamas | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇧🇧 Barbados | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇧🇲 Bermuda | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇧🇶 Bonaire | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇻🇬 British Virgin Islands | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇰🇾 Cayman Islands | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇨🇺 Cuba | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇨🇼 Curaçao | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇩🇲 Dominica | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇩🇴 Dominican Republic | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇬🇫 French Guiana | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇬🇩 Grenada | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇬🇵 Guadeloupe | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇬🇾 Guyana | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇭🇹 Haiti | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇯🇲 Jamaica | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇲🇶 Martinique | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇲🇸 Montserrat | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇵🇷 Puerto Rico | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇰🇳 Saint Kitts and Nevis | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇱🇨 Saint Lucia | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇲🇫 Saint Martin | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇻🇨 Saint Vincent and the Grenadines | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇸🇽 Sint Maarten | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇸🇷 Suriname | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇹🇹 Trinidad and Tobago | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇹🇨 Turks and Caicos Islands | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇻🇮 U.S. Virgin Islands | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 
 ## CONMEBOL
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇦🇷 Argentina
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇴 Bolivia
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇧🇷 Brazil
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇨🇱 Chile
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇨🇴 Colombia
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇪🇨 Ecuador
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇵🇾 Paraguay
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇵🇪 Peru
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇺🇾 Uruguay
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇻🇪 Venezuela
+| Nation | M | W |
+|---|---|---|
+| 🇦🇷 Argentina | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇧🇴 Bolivia | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇧🇷 Brazil | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇨🇱 Chile | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇨🇴 Colombia | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇪🇨 Ecuador | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇵🇾 Paraguay | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇵🇪 Peru | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇺🇾 Uruguay | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇻🇪 Venezuela | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 
 ## OFC
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇦🇸 American Samoa
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇨🇰 Cook Islands
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇫🇯 Fiji
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇰🇮 Kiribati
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇳🇨 New Caledonia
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇳🇿 New Zealand
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇵🇬 Papua New Guinea
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇼🇸 Samoa
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇸🇧 Solomon Islands
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇵🇫 Tahiti
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇹🇴 Tonga
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇹🇻 Tuvalu
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇻🇺 Vanuatu
+| Nation | M | W |
+|---|---|---|
+| 🇦🇸 American Samoa | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇨🇰 Cook Islands | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇫🇯 Fiji | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇰🇮 Kiribati | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇳🇨 New Caledonia | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇳🇿 New Zealand | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇵🇬 Papua New Guinea | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇼🇸 Samoa | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇸🇧 Solomon Islands | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇵🇫 Tahiti | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇹🇴 Tonga | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇹🇻 Tuvalu | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇻🇺 Vanuatu | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 
 ## UEFA
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇦🇱 Albania
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇦🇩 Andorra
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇦🇲 Armenia
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇦🇹 Austria
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇦🇿 Azerbaijan
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇧🇾 Belarus
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇧🇪 Belgium
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇧🇦 Bosnia and Herzegovina
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇧🇬 Bulgaria
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇭🇷 Croatia
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇨🇾 Cyprus
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇨🇿 Czech Republic
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇩🇰 Denmark
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇪🇪 Estonia
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇫🇴 Faroe Islands
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇫🇮 Finland
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇫🇷 France
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇬🇪 Georgia
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇩🇪 Germany
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇬🇮 Gibraltar
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇬🇷 Greece
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇭🇺 Hungary
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇮🇸 Iceland
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇮🇱 Israel
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇮🇹 Italy
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇰🇿 Kazakhstan
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇽🇰 Kosovo
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇱🇻 Latvia
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇱🇮 Liechtenstein
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇱🇹 Lithuania
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇱🇺 Luxembourg
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇹 Malta
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇩 Moldova
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇪 Montenegro
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇳🇱 Netherlands
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇲🇰 North Macedonia
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🏴󠁧󠁢󠁮󠁩󠁲󠁿 Northern Ireland
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇳🇴 Norway
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇵🇱 Poland
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇵🇹 Portugal
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇮🇪 Republic of Ireland
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇷🇴 Romania
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇷🇺 Russia
- - ![Done](https://img.shields.io/badge/Done-32CD32) 🇸🇲 San Marino
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇷🇸 Serbia
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇸🇰 Slovakia
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇸🇮 Slovenia
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇪🇸 Spain
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇸🇪 Sweden
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇨🇭 Switzerland
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇹🇷 Turkey
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🇺🇦 Ukraine
- - ![Provided](https://img.shields.io/badge/Provided-00AA00) 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales
+| Nation | M | W |
+|---|---|---|
+| 🇦🇱 Albania | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇦🇩 Andorra | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇦🇲 Armenia | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇦🇹 Austria | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇦🇿 Azerbaijan | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇧🇾 Belarus | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇧🇪 Belgium | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇧🇦 Bosnia and Herzegovina | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇧🇬 Bulgaria | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇭🇷 Croatia | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇨🇾 Cyprus | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇨🇿 Czech Republic | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇩🇰 Denmark | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Provided](https://img.shields.io/badge/Provided-00AA00) |
+| 🇪🇪 Estonia | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇫🇴 Faroe Islands | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇫🇮 Finland | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇫🇷 France | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Provided](https://img.shields.io/badge/Provided-00AA00) |
+| 🇬🇪 Georgia | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇩🇪 Germany | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Provided](https://img.shields.io/badge/Provided-00AA00) |
+| 🇬🇮 Gibraltar | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇬🇷 Greece | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇭🇺 Hungary | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇮🇸 Iceland | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇮🇱 Israel | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇮🇹 Italy | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Provided](https://img.shields.io/badge/Provided-00AA00) |
+| 🇰🇿 Kazakhstan | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇽🇰 Kosovo | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇱🇻 Latvia | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇱🇮 Liechtenstein | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇱🇹 Lithuania | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇱🇺 Luxembourg | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇲🇹 Malta | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇲🇩 Moldova | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇲🇪 Montenegro | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇳🇱 Netherlands | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇲🇰 North Macedonia | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🏴󠁧󠁢󠁮󠁩󠁲󠁿 Northern Ireland | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇳🇴 Norway | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇵🇱 Poland | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇵🇹 Portugal | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇮🇪 Republic of Ireland | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇷🇴 Romania | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇷🇺 Russia | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇸🇲 San Marino | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇷🇸 Serbia | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇸🇰 Slovakia | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇸🇮 Slovenia | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇪🇸 Spain | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Provided](https://img.shields.io/badge/Provided-00AA00) |
+| 🇸🇪 Sweden | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Provided](https://img.shields.io/badge/Provided-00AA00) |
+| 🇨🇭 Switzerland | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇹🇷 Turkey | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇺🇦 Ukraine | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Provided](https://img.shields.io/badge/Provided-00AA00) |
 
 ### Legend
 ![Pending](https://img.shields.io/badge/Pending-FFD700)
 ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF)
 ![Done](https://img.shields.io/badge/Done-32CD32)
 ![Provided](https://img.shields.io/badge/Provided-00AA00)
+
+## Support
+If you enjoy my work, consider supporting it:
+ 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-00457C?logo=paypal&logoColor=white)](https://www.paypal.me/GianniCiccarelli962)
