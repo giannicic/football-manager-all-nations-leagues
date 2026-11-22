@@ -223,8 +223,8 @@ Any feedback is greatly appreciated.
 |---|---|---|
 | 🇦🇱 Albania | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 | 🇦🇩 Andorra | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
-| 🇦🇲 Armenia | ![Done](https://img.shields.io/badge/Done-32CD32) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
-| 🇦🇹 Austria | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Done](https://img.shields.io/badge/Done-32CD32) |
+| 🇦🇲 Armenia | ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇦🇹 Austria | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) |
 | 🇦🇿 Azerbaijan | ![Done](https://img.shields.io/badge/Done-32CD32) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 | 🇧🇾 Belarus | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 | 🇧🇪 Belgium | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Done](https://img.shields.io/badge/Done-32CD32) |
@@ -254,7 +254,7 @@ Any feedback is greatly appreciated.
 | 🇱🇹 Lithuania | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 | 🇱🇺 Luxembourg | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 | 🇲🇹 Malta | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
-| 🇲🇩 Moldova | ![Done](https://img.shields.io/badge/Done-32CD32) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇲🇩 Moldova | ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 | 🇲🇪 Montenegro | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 | 🇳🇱 Netherlands | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Done](https://img.shields.io/badge/Done-32CD32) |
 | 🇲🇰 North Macedonia | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
