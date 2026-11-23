@@ -20,16 +20,23 @@ Any feedback is greatly appreciated.
 - French Guiana M (French Guianese Régional 2 and Above)
 - Colombia W (Colombian Women's Premier Division Only)
 - South Africa W (SAFA Women's Super League Only)
+- Moldova M (Moldovan Liga 2 and Above)
+- Armenia M (Armenian Amateur League B)
+- Austria W (Austrian Women's Second Division)
 
 # In Progress
 
-- Moldova M
-- Armenia M
-- Austria W
+- Morocco M
+- Kazakhstan M
+- Bosnia and Herzegovina M
+- Iran M
+- Iran W
+- Kyrgyzstan M
+- Kyrgyzstan W
 
 # Overall Status
 
-🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 4% (16/374)
+🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 5% (19/374)
 
 ## AFC
 | Nation | M | W |
@@ -47,8 +54,8 @@ Any feedback is greatly appreciated.
 | 🇹🇭 Thailand | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 | 🇻🇳 Vietnam | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 | 🇦🇫 Afghanistan | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
-| 🇮🇷 Iran | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
-| 🇰🇬 Kyrgyzstan | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇮🇷 Iran | ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) | ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) |
+| 🇰🇬 Kyrgyzstan | ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) | ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) |
 | 🇹🇯 Tajikistan | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 | 🇹🇲 Turkmenistan | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 | 🇺🇿 Uzbekistan | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
@@ -88,7 +95,7 @@ Any feedback is greatly appreciated.
 | 🇩🇿 Algeria | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 | 🇪🇬 Egypt | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 | 🇱🇾 Libya | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
-| 🇲🇦 Morocco | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇲🇦 Morocco | ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 | 🇹🇳 Tunisia | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 | 🇧🇯 Benin | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 | 🇧🇫 Burkina Faso | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
@@ -223,12 +230,12 @@ Any feedback is greatly appreciated.
 |---|---|---|
 | 🇦🇱 Albania | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 | 🇦🇩 Andorra | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
-| 🇦🇲 Armenia | ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
-| 🇦🇹 Austria | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) |
+| 🇦🇲 Armenia | ![Done](https://img.shields.io/badge/Done-32CD32) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇦🇹 Austria | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Done](https://img.shields.io/badge/Done-32CD32) |
 | 🇦🇿 Azerbaijan | ![Done](https://img.shields.io/badge/Done-32CD32) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 | 🇧🇾 Belarus | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 | 🇧🇪 Belgium | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Done](https://img.shields.io/badge/Done-32CD32) |
-| 🇧🇦 Bosnia and Herzegovina | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇧🇦 Bosnia and Herzegovina | ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 | 🇧🇬 Bulgaria | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 | 🇭🇷 Croatia | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 | 🇨🇾 Cyprus | ![Done](https://img.shields.io/badge/Done-32CD32) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
@@ -247,14 +254,14 @@ Any feedback is greatly appreciated.
 | 🇮🇸 Iceland | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 | 🇮🇱 Israel | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 | 🇮🇹 Italy | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Provided](https://img.shields.io/badge/Provided-00AA00) |
-| 🇰🇿 Kazakhstan | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇰🇿 Kazakhstan | ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 | 🇽🇰 Kosovo | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 | 🇱🇻 Latvia | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 | 🇱🇮 Liechtenstein | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 | 🇱🇹 Lithuania | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 | 🇱🇺 Luxembourg | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 | 🇲🇹 Malta | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
-| 🇲🇩 Moldova | ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇲🇩 Moldova | ![Done](https://img.shields.io/badge/Done-32CD32) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 | 🇲🇪 Montenegro | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 | 🇳🇱 Netherlands | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Done](https://img.shields.io/badge/Done-32CD32) |
 | 🇲🇰 North Macedonia | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
