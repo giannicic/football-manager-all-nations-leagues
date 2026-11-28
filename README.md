@@ -36,14 +36,16 @@ Any feedback is greatly appreciated.
 - Czech Republic W (Czech Women's Second Division and Above)
 - Morocco W (Moroccan Second Division and Above)
 - Algeria M (Algerian Ligue 2 and Above)
+- China W (Chinese Women's Super League Only)
 
 # In Progress
 
-- China W
+- Bolivia M
+- Uzbekistan M
 
 # Overall Status
 
-🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 8% (32/374)
+🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 8% (33/374)
 
 # Extras
 
@@ -69,8 +71,8 @@ Any feedback is greatly appreciated.
 | 🇰🇬 Kyrgyzstan | ![Done](https://img.shields.io/badge/Done-32CD32) | ![Done](https://img.shields.io/badge/Done-32CD32) |
 | 🇹🇯 Tajikistan | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 | 🇹🇲 Turkmenistan | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
-| 🇺🇿 Uzbekistan | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
-| 🇨🇳 China | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) |
+| 🇺🇿 Uzbekistan | ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇨🇳 China | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Done](https://img.shields.io/badge/Done-32CD32) |
 | 🇹🇼 Chinese Taipei | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 | 🇰🇵 North Korea | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 | 🇬🇺 Guam | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
@@ -209,7 +211,7 @@ Any feedback is greatly appreciated.
 | Nation | M | W |
 |---|---|---|
 | 🇦🇷 Argentina | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
-| 🇧🇴 Bolivia | ![Pending](https://img.shields.io/badge/Pending-FFD700) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
+| 🇧🇴 Bolivia | ![In Progress](https://img.shields.io/badge/In%20Progress-1E90FF) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 | 🇧🇷 Brazil | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Done](https://img.shields.io/badge/Done-32CD32) |
 | 🇨🇱 Chile | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Pending](https://img.shields.io/badge/Pending-FFD700) |
 | 🇨🇴 Colombia | ![Provided](https://img.shields.io/badge/Provided-00AA00) | ![Done](https://img.shields.io/badge/Done-32CD32) |
